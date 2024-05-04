@@ -173,8 +173,7 @@ We use “Salary_Data” dataset to involves predicting about the salary or wage
 
 ### Plot The Result “Bar”
 <div align="center"><img src="https://github.com/alresadeva/Data_Analytics_2/assets/166176480/119e57e7-8438-4e76-b66d-916894936b05" /></div>
-<div align="center"><img src="![image](https://github.com/alresadeva/Data_Analytics_2/assets/166176480/278114d8-976e-4051-9b10-d600b69694e3)
-" /></div>
+<div align="center"><img src="https://github.com/alresadeva/Data_Analytics_2/assets/166176480/278114d8-976e-4051-9b10-d600b69694e3" /></div>
 
 ### Evaluate Model
 - Mean Squared Error (MSE)
