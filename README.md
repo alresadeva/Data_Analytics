@@ -119,6 +119,7 @@ A - Alprazolam (Xanax, Long-term) [1mg/3mg/5mg]
 T - Triazolam (Halcion, Short-term) [0.25mg/0.5mg/0.75mg]
 S- Sugar Tablet (Placebo) [1 tab/2tabs/3tabs]
 <div align="center"><img src="https://github.com/alresadeva/Data_Analytics_2/assets/166176480/7f33433a-61d5-413c-8966-95227c214a60" /></div> 
+
 - first_name : First name of Islander
 - last_name : Last. name of Islander
 - age : Age of Islander
