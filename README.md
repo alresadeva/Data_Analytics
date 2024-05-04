@@ -173,11 +173,16 @@ We use “Salary_Data” dataset to involves predicting about the salary or wage
 
 ### Plot The Result “Bar”
 <div align="center"><img src="https://github.com/alresadeva/Data_Analytics_2/assets/166176480/119e57e7-8438-4e76-b66d-916894936b05" /></div>
+<div align="center"><img src="![image](https://github.com/alresadeva/Data_Analytics_2/assets/166176480/278114d8-976e-4051-9b10-d600b69694e3)
+" /></div>
 
 ### Evaluate Model
 - Mean Squared Error (MSE)
 is a regression model evaluation metric that is used to calculate the error between the values predicted by the model and the actual values. MSE is the average of the squared differences between the predicted value and the actual value.
+<div align="center"><img src="https://github.com/alresadeva/Data_Analytics_2/assets/166176480/45ec2b02-00d2-428a-80fd-faa42ee71d66" /></div>
 - Mean Absoulute Error (MAE)
 is a regression model evaluation metric that is used to calculate the error between the values predicted by the model and the actual values.
+<div align="center"><img src="https://github.com/alresadeva/Data_Analytics_2/assets/166176480/25926797-b307-48f0-92a9-8d5e30cf5806" /></div>
 - R-Squared (R2)
 R-squared or R² is one of the regression model evaluation metrics used to calculate the level of success of the model in describing the variance of the target variable.
+<div align="center"><img src="https://github.com/alresadeva/Data_Analytics_2/assets/166176480/c60f89d8-3ce6-4377-9ae7-95abd55e54d2" /></div>
